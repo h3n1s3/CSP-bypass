@@ -1,1 +1,2 @@
-<script>alert(1)</script>
+console.log('CSP TEST: Script executed!');
+window.cspTestLoaded = true;
